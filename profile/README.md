@@ -14,7 +14,7 @@ If you have any questions, feedback, or would like to collaborate, feel free to 
 
 - Alex Godfrey
 - Armaan Tewary
-- Benjaminn Liker
+- Benjamin Liker
 - Brett Richter
 - Catalina Monsalve
 - Charlotte Zhang
