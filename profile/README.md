@@ -8,7 +8,7 @@ At our core, we combine cutting-edge AI and robotics technologies to test non-FD
 
 ## Contact Us
 
-If you have any questions, feedback, or would like to collaborate, feel free to reach out to our team at team@altumlabs.co
+If you have any questions, feedback, or would like to collaborate, feel free to reach out to our team at <team@altumlabs.co>
 
 ## Team Members
 
@@ -21,7 +21,7 @@ If you have any questions, feedback, or would like to collaborate, feel free to 
 - Davis Wang
 - Grant Rinehimer
 - Izzy Qian
-- Kevin Ram
+- Kevin M. Ram
 - Mahtab Beikzadeh
 - Mark Jaskowski
 - Mia Liu
