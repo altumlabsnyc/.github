@@ -10,26 +10,5 @@ At our core, we combine cutting-edge AI and robotics technologies to test non-FD
 
 If you have any questions, feedback, or would like to collaborate, feel free to reach out to our team at <team@altumlabs.co>
 
-## Team Members
-
-- Alex Godfrey
-- Armaan Tewary
-- Benjamin Liker
-- Brett Richter
-- Catalina Monsalve
-- Charlotte Zhang
-- Davis Wang
-- Grant Rinehimer
-- Izzy Qian
-- Kevin M. Ram
-- Mahtab Beikzadeh
-- Mark Jaskowski
-- Mia Liu
-- Ricky Fok
-- Ryan Ho
-- Soulaimane Bentaleb
-- Summer Brashear
-- Will Wu
-
 ## Website
 Check out our website [here](https://www.altumlabs.co)!
